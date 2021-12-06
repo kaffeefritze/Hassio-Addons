@@ -1,9 +1,9 @@
 {
   "name": "ICantBelieveItsNotValetudo",
-  "version": "3.5.0",
+  "version": "3.5.1",
   "slug": "icantbelieveitsnotvaletudo",
   "description": "This is a simple companion service for valetudo which generates the map pngs.",
-  "url": "https://github.com/Poeschl/Hassio-Addons/tree/master/ICantBelieveItsNotValetudo",
+  "url": "https://github.com/kaffeefritze/Hassio-Addons/tree/master/ICantBelieveItsNotValetudo",
   "arch": [
     "armhf",
     "armv7",
@@ -11,7 +11,7 @@
     "amd64",
     "i386"
   ],
-  "image": "ghcr.io/poeschl/ha-icantbelieveitsnotvaletudo-{arch}",
+  "image": "ghcr.io/kaffeefritze/ha-icantbelieveitsnotvaletudo-{arch}",
   "ports": {
     "8080/tcp": null
   },
